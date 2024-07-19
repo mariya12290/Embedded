@@ -1,2 +1,2 @@
 # Embedded
-A simple repo for Embedded programming in C, FreeRTOS, Linux with Yocto
+A simple repo for Embedded programming Linux with Yocto
